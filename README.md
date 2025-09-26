@@ -156,10 +156,6 @@ A comprehensive banking analytics dashboard providing detailed insights into cus
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 📞 Contact
 
 For questions or collaboration opportunities, please reach out through GitHub issues.
